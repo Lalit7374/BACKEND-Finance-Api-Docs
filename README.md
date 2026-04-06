@@ -57,8 +57,8 @@ npm run seed
 npm start
 ```
 
-* API: http://localhost:3000
-* Docs: http://localhost:3000/docs
+
+* Docs: https://backend-finance-dashboard-7dyj.onrender.com/
 
 ---
 
